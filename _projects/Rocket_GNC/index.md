@@ -11,7 +11,7 @@ skills:
 - CFD
 - PCB Design
 - Onshape
-main-image: TwistCAD.jpg 
+main-image: /TwistCAD.jpg 
 ---
 
 ---
