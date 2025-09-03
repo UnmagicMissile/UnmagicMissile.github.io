@@ -11,7 +11,7 @@ skills:
 - Embedded C
 - Sensor Fusion
 - CFD
-main-image: /project.webp 
+main-image: TwistCAD.jpg 
 ---
 
 ---
