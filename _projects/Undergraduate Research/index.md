@@ -24,3 +24,5 @@ As testing occured, the aluminum was found to be too thermally conductive. Howev
 The particle counter, also known as the optic cell, is used to track particle density within the carrier flow stream. This is done by letting a laser's beam scatter off the particulate in the flow and into one of two photodiodes. Depending on the media density in the carrier flow, the photodiodes will read different amounts of light and thus allow the user to guage how much media they are dispensing onto their print surface.
 
 The planar tolerance between the laser mount and the photodiode mounts is critical to signal clarity. Poor planar tolerance leads to more reflections in the cavity, leading to the baseline light detected being higher than intended. To remedy this, the choice to manually machine the part was avoided to remove human error. This choice led to the use of 4th axis machining.
+
+
