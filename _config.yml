@@ -15,7 +15,7 @@ title: Ashton Baker's Portfolio # This is what shows up in the tab of the browse
 name: Ashton Baker
 headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a mechanical engineer with a deep passion for prototyping. To learn is to build, break, and build again. I love opening new doors and learning new areas of engineering.
+  I am a mechanical engineer with a deep passion for prototyping and design. I started building projects in my garage in high school and just never stopped. I have an L2 Tripoli certification
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -29,7 +29,7 @@ resume-url: ./assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:     # https://www.linkedin.com/in/{your url slug} 
+  linkedin:     # https://www.linkedin.com/in/ashtonmbaker/ 
   github:    # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
@@ -46,7 +46,7 @@ skills:
   - category: 3D Modeling
     tools:
     - Solidworks
-    - Creo Parametric
+    - PTC Creo
     - Fusion 360 (Autodesk)
     - Inventor (Autodesk)
     - Onshape
@@ -66,7 +66,7 @@ skills:
     - Raspberry Pi
     - Breadboarding
     - Perfboarding
-    - KiCad
+    - KiCAD
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
