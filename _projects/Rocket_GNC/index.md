@@ -26,6 +26,6 @@ The Belle flight computer is based on an ESP 32D and uses an BNO080 for inertial
 KiCAD Design
 {% include image-gallery.html images="BelleV1PCB.jpg" height="400" %}
 Soldered PCB
-{% include image-gallery.html images="LiveMasSolder" height="400" %}
+{% include image-gallery.html images="LiveMasSolder.jpg" height="400" %}
 ## Software
 The control script is written in arduino language. The system uses state machine logic to enter new states in the process (e.g. idle, powered flight, unpowered flight, landing, etc.) Each collects data from the hardware to predict where the rocket is, where the rocket will be, and what the rocket needs to move in order to move in the right direction. Data is sent to an SMT mounted SD card from idle through landing then to the removable SD card once the rocket is in a stable environment, preventing data corruption risk commonly associated with removable SD cards due to vibration.
