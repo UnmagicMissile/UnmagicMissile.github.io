@@ -15,10 +15,10 @@ title: Ashton Baker's Portfolio # This is what shows up in the tab of the browse
 name: Ashton Baker
 headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a mechanical engineer with a deep passion for prototyping and design. I started building projects in my garage in high school and just never stopped. I have an L2 Tripoli certification
+  I am a mechanical engineer with a deep passion for prototyping and design. I started building projects in my garage in high school and just never stopped.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/L2Cert.jpeg
 
 
 # Link your resume
@@ -50,6 +50,11 @@ skills:
     - Fusion 360 (Autodesk)
     - Inventor (Autodesk)
     - Onshape
+  - category: Simulation Tools
+    - Ansys Mechanical
+    - Solidworks FEA
+    - Solidworks CFD
+    - MasterCAM
   - category: Manufacturing
     tools:
     - CNC (Haas UI)
