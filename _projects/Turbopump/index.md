@@ -7,7 +7,7 @@ skills:
 - Arduino
 - Pump Design
 - Onshape
-main-image: 
+main-image: /PumpPrinted.jpg
 ---
 
 ---
