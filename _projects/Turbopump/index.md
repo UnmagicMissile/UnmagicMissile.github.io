@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turbopump Project
-description: Development of a 4 inch diameter turbopump
+description: Development of a 3 inch diameter pump
 skills: 
 - FDM
 - Arduino
