@@ -51,6 +51,7 @@ skills:
     - Inventor (Autodesk)
     - Onshape
   - category: Simulation Tools
+    tools:
     - Ansys Mechanical
     - Solidworks FEA
     - Solidworks CFD
